@@ -1,5 +1,4 @@
 ### Olá! Eu me chamo Dante.
-Atualmente estudando pyhton.
 <div>
   <div style="display: inline-block"><br>
   <img align="center" alt="Duarte-CSS"  height="30"  wisht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />-

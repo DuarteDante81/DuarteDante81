@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2556b4&height=120&section=header"/>
-### Olá! Eu me chamo Antonio 😁.
+### Olá! Eu me chamo Antonio 😁
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteDante81&size_weight=0.5&count_weight=0.5&theme=holi)
 
 ## Tecnologias que uso e estou aprendendo!
